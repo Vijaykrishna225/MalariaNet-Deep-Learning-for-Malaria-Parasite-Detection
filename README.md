@@ -22,7 +22,7 @@ MalariaNet is a deep learning project aimed at improving the accuracy and effici
 - Implications and Future Research: Discussion on the potential real-world applications of the developed models and recommendations for future research in the field of malaria detection.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/username/MalariaNet.git`
+1. Clone the repository: `git clone https://github.com/Vijaykrishna225/MalariaNet-Deep-Learning-for-Malaria-Parasite-Detection/tree/main`
 2. Install the required dependencies: pip install libraries.'
   2.1 Libraries are : "TensorFlow,Keras,NumPy,Matplotlib,scikit-learn"
 3. Preprocess the dataset: Follow the instructions in the `maleriaprediction.ipynb` notebook to preprocess the thin blood smear images.
